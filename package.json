@@ -1,0 +1,24 @@
+{
+  "name": "stock-market-news-api-nodejs",
+  "version": "1.0.0",
+  "description": "Stock Market News API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Stock market news API",
+    "News API",
+    "News article API",
+    "News streaming API",
+    "Financial news API",
+    "Live news feed",
+    "Real-time news"
+  ],
+  "author": "Jan Schroeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janlukasschroeder/stock-market-news-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/janlukasschroeder/stock-market-news-api-nodejs#readme"
+}
