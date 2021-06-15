@@ -1,6 +1,6 @@
 {
   "name": "stock-market-news-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stock Market News API",
   "main": "index.js",
   "scripts": {
