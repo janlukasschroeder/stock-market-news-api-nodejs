@@ -1,9 +1,20 @@
 # Stock Market News API
 
-- Query and real-time streaming API
-- Covering all sources relevant to trading and investing
+- Get the latest stock market news from all relevant sources
+- Query API to search the entire stock market news corpus
+- Real-time stream API to receive news as soon as they are published
+- New articles are indexed in real-time in less than 500 milliseconds after publication
+- Used by institutions, traders and investors in over 50 countries
+
+See full API documentation at: https://developers.newsfilter.io/
+
+# News Topics
+
+Analyst ratings, earnings releases, press releases, M&A announcements, FDA drug approvals, clinical trial results, offerings, IPOs, SPACs, earnings call transcripts, patent approvals, SEC filings, government contract awards, insider trades, class action law suits, market research reports.
 
 # News Sources
+
+Supported news sources include:
 
 | News Provider               |                                 Source ID |
 | --------------------------- | ----------------------------------------: |
@@ -38,23 +49,12 @@ Please contact us at support@newsfilter.io if you like us to add more sources.
 
 # Companies & Exchanges
 
-Articles are tagged with ticker symbols of companies listed on:
+All companies listed on the following stock exchanges are supported:
 
 - NASDAQ
 - NYSE
 - AMEX/NYSE American
 
-Support for the following exchanges is in progress:
-
-- CSE/CNSX/TSX
-- OTC (off-exchange)
-- LSE
-- JPX
-
-Please contact us at support@newsfilter.io if you like us to add support for companies listed on other exchanges.
-
 # Contact
 
 Website: https://newsfilter.io
-
-API documentation: https://developers.newsfilter.io/
