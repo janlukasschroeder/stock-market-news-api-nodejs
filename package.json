@@ -24,5 +24,12 @@
     "type": "git",
     "url": "git+https://github.com/janlukasschroeder/stock-market-news-api-nodejs.git"
   },
-  "homepage": "https://github.com/janlukasschroeder/stock-market-news-api-nodejs#readme"
+  "homepage": "https://github.com/janlukasschroeder/stock-market-news-api-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "socket.io-client": "^2.4.0"
+  },
+  "bin": {
+    "stock-market-news-api": "./index.js"
+  }
 }
